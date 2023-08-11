@@ -1,1 +1,7 @@
 Django
+ultralytics 
+rest_framework
+requests
+Pillow
+numpy
+opencv-python
