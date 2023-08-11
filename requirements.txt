@@ -1,6 +1,6 @@
 Django
 ultralytics 
-rest_framework
+djangorestframework
 requests
 Pillow
 numpy
